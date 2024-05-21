@@ -1,0 +1,14 @@
+C:\Users\twilliams\source\repos\test\pushd-test\bin\Debug\net8.0\pushd-test.exe
+C:\Users\twilliams\source\repos\test\pushd-test\bin\Debug\net8.0\pushd-test.deps.json
+C:\Users\twilliams\source\repos\test\pushd-test\bin\Debug\net8.0\pushd-test.runtimeconfig.json
+C:\Users\twilliams\source\repos\test\pushd-test\bin\Debug\net8.0\pushd-test.dll
+C:\Users\twilliams\source\repos\test\pushd-test\bin\Debug\net8.0\pushd-test.pdb
+C:\Users\twilliams\source\repos\test\pushd-test\obj\Debug\net8.0\pushd-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twilliams\source\repos\test\pushd-test\obj\Debug\net8.0\pushd-test.AssemblyInfoInputs.cache
+C:\Users\twilliams\source\repos\test\pushd-test\obj\Debug\net8.0\pushd-test.AssemblyInfo.cs
+C:\Users\twilliams\source\repos\test\pushd-test\obj\Debug\net8.0\pushd-test.csproj.CoreCompileInputs.cache
+C:\Users\twilliams\source\repos\test\pushd-test\obj\Debug\net8.0\pushd-test.dll
+C:\Users\twilliams\source\repos\test\pushd-test\obj\Debug\net8.0\refint\pushd-test.dll
+C:\Users\twilliams\source\repos\test\pushd-test\obj\Debug\net8.0\pushd-test.pdb
+C:\Users\twilliams\source\repos\test\pushd-test\obj\Debug\net8.0\pushd-test.genruntimeconfig.cache
+C:\Users\twilliams\source\repos\test\pushd-test\obj\Debug\net8.0\ref\pushd-test.dll

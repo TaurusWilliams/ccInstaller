@@ -1,0 +1,16 @@
+C:\Users\twilliams\source\repos\test\pushd-testGUI\bin\Debug\net8.0-windows\pushd-testGUI.exe
+C:\Users\twilliams\source\repos\test\pushd-testGUI\bin\Debug\net8.0-windows\pushd-testGUI.deps.json
+C:\Users\twilliams\source\repos\test\pushd-testGUI\bin\Debug\net8.0-windows\pushd-testGUI.runtimeconfig.json
+C:\Users\twilliams\source\repos\test\pushd-testGUI\bin\Debug\net8.0-windows\pushd-testGUI.dll
+C:\Users\twilliams\source\repos\test\pushd-testGUI\bin\Debug\net8.0-windows\pushd-testGUI.pdb
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\pushd_testGUI.Form1.resources
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\pushd-testGUI.csproj.GenerateResource.cache
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\pushd-testGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\pushd-testGUI.AssemblyInfoInputs.cache
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\pushd-testGUI.AssemblyInfo.cs
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\pushd-testGUI.csproj.CoreCompileInputs.cache
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\pushd-testGUI.dll
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\refint\pushd-testGUI.dll
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\pushd-testGUI.pdb
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\pushd-testGUI.genruntimeconfig.cache
+C:\Users\twilliams\source\repos\test\pushd-testGUI\obj\Debug\net8.0-windows\ref\pushd-testGUI.dll
